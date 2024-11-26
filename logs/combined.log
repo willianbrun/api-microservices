@@ -1,0 +1,6 @@
+{"level":"info","message":"A req: 8c6d26d7-b536-4370-a02c-3e9590cce97f Verbo: GET Path: /api/healthcheck","timestamp":"2024-11-19T23:18:11.914Z"}
+{"level":"info","message":"Healthcheck id: undefined","timestamp":"2024-11-19T23:18:11.917Z"}
+{"level":"info","message":"A req: 35334414-689d-4d2f-9401-a21342daedec Verbo: GET Path: /api/healthcheck","timestamp":"2024-11-19T23:26:10.310Z"}
+{"level":"info","message":"Healthcheck id: undefined","timestamp":"2024-11-19T23:26:10.312Z"}
+{"level":"info","message":"A req: a62fcc60-2670-4e5e-be51-f6e4b9f1d143 Verbo: GET Path: /api/healthchecko","timestamp":"2024-11-19T23:26:17.653Z"}
+{"level":"error","message":"Status: 404 Erro: Not Found","timestamp":"2024-11-19T23:26:17.654Z"}
