@@ -1,9 +1,3 @@
-# Awesome Project Build with TypeORM
+# API Node
 
-Steps to run this project:
-
-1. Run `npm i` command
-2. Setup database settings inside `data-source.ts` file
-3. Run `npm start` command
-
-todo: colocar .env e atualizar docker-composew
+API de aprendizado utilizando Node, TypeORM, Docker, Postgres e Tracing, para a matéria de APIs e Microserviços do professor Pablo Leon Rodrigues. UPF 2024/2
