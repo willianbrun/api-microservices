@@ -2,7 +2,7 @@
    "name": "upf",
    "version": "0.0.1",
    "description": "API - typescript, express, postgres",
-   "author": "Pablo Leon Rodrigues",
+   "author": "Willian Brun",
    "type": "commonjs",
    "devDependencies": {
       "@types/cors": "^2.8.17",

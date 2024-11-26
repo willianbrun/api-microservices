@@ -6,6 +6,8 @@ COPY package.json ./
 RUN npm install
 # Copia o código da aplicação
 COPY . .
+# Run the build step
+RUN npm run build 
 # Expomos uma porta
 EXPOSE 3001
 # Comando para iniciar o serviço

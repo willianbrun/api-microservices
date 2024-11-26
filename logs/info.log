@@ -4,3 +4,17 @@
 {"level":"info","message":"Healthcheck id: undefined","timestamp":"2024-11-19T23:26:10.312Z"}
 {"level":"info","message":"A req: a62fcc60-2670-4e5e-be51-f6e4b9f1d143 Verbo: GET Path: /api/healthchecko","timestamp":"2024-11-19T23:26:17.653Z"}
 {"level":"error","message":"Status: 404 Erro: Not Found","timestamp":"2024-11-19T23:26:17.654Z"}
+{"level":"info","message":"A req: 4093662a-b71c-4a2d-a8ed-18506e099db9 Verbo: GET Path: /api","timestamp":"2024-11-26T16:01:26.658Z"}
+{"level":"error","message":"Status: 404 Erro: Not Found","timestamp":"2024-11-26T16:01:26.661Z"}
+{"level":"info","message":"A req: 23af85f2-ed9c-4227-ad22-76af48336354 Verbo: GET Path: /api/healthcheck","timestamp":"2024-11-26T16:01:42.146Z"}
+{"level":"info","message":"Healthcheck id: undefined","timestamp":"2024-11-26T16:01:42.153Z"}
+{"level":"info","message":"A req: e4d3a74c-20aa-41b8-be4a-21bcecbd2c96 Verbo: GET Path: /api/healthcheck","timestamp":"2024-11-26T16:01:57.245Z"}
+{"level":"info","message":"Healthcheck id: undefined","timestamp":"2024-11-26T16:01:57.246Z"}
+{"level":"info","message":"A req: edfe078d-5ea9-4f49-b542-9f5b238b14f5 Verbo: GET Path: /api/healthcheck","timestamp":"2024-11-26T20:55:41.242Z"}
+{"level":"info","message":"Healthcheck id: undefined","timestamp":"2024-11-26T20:55:41.245Z"}
+{"level":"info","message":"A req: 52433350-4052-408b-86c0-d57ace29edf1 Verbo: GET Path: /api/healthcheck","timestamp":"2024-11-26T21:29:37.941Z"}
+{"level":"info","message":"Healthcheck id: undefined","timestamp":"2024-11-26T21:29:37.946Z"}
+{"level":"info","message":"A req: 5afbb169-b5cb-4773-8d8e-8c9d583719f1 Verbo: POST Path: /api/tarefa","timestamp":"2024-11-26T21:29:57.016Z"}
+{"level":"info","message":"A req: 93df961c-39ee-4db8-88c7-b43f30ec7188 Verbo: POST Path: /api/login","timestamp":"2024-11-26T21:30:07.485Z"}
+{"level":"info","message":"A req: d88a2269-f27f-4290-b458-e17d36ead14a Verbo: POST Path: /api/tarefa","timestamp":"2024-11-26T21:30:22.472Z"}
+{"level":"info","message":"A req: b10f0297-646c-48b6-b617-01e445f0d08e Verbo: POST Path: /api/tarefa","timestamp":"2024-11-26T21:32:06.818Z"}
