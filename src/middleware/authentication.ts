@@ -1,13 +1,13 @@
-import {Request, Response} from "express";
+import { Request, Response } from "express";
 import jwt from "jsonwebtoken";
 class Authentication {
     async hasAuthorization(req: Request, res: Response, next: () => void) {
         const bearerHeader = req.headers.authorization
         if (!bearerHeader) {
-            res.status(403).json({auth: false, message: 'Nenhum token fornecido.'})
+            res.status(403).json({ auth: false, message: 'Nenhum token fornecido.' })
         }
         const bearer = bearerHeader!.split(' ')[1]
-        jwt.verify(bearer, process.env.TOKEN!, function (err, decoded) {
+        jwt.verify(bearer, "c2VuaGE=", function (err, decoded) {
             if (err) return res.status(500).json({
                 auth: false,
                 message: 'Failed to authenticate token.'
